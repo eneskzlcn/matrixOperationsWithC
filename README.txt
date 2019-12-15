@@ -1,0 +1,1 @@
+Creating a matrix in heap memory and turning it to a direction (In C Language)
